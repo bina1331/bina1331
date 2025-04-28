@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Sabrina Cardoso</h1>
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-- 💬 Tenho conhecimento básico sobre **Linguagem C, MySQL e DbDesigner**
+- 💬 Tenho conhecimento em **Linguagem C, MySQL e DbDesigner**
 
 - 📫 Meu Email é **sabrinacabreu1@gmail.com**
 
