@@ -5,10 +5,6 @@
 
 - 📫 Meu Email é **sabrinacabreu1@gmail.com**
 
-- ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@bina13/30-nites-of-code)  
-  ![@bina13 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=bina13)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ sabrina-cardoso13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sabrina-cardoso13" height="30" width="40" /></a>
